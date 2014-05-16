@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+BikilaAsturias
+==============
+
+Proyecto web para la web de Bikila Asturias
+
+
 Symfony Standard Edition
 ========================
 
@@ -169,9 +174,3 @@ Enjoy!
 [11]: http://symfony.com/doc/2.4/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.4/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.4/bundles/SensioGeneratorBundle/index.html
-=======
-BikilaAsturias
-==============
-
-Proyecto web para la web de Bikila Asturias
->>>>>>> 4e0693f3903999c3564570a14548b83d89bea096
